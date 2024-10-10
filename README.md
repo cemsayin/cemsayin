@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/cemsayin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cemsayin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/cemsayin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cemsayin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,7 +29,7 @@
 
 <h3 align="left">Certificates:</h3>
 <p align="left">
-  <a href="https://www.credly.com/badges/54ae679f-4439-46ed-84ff-cb408c18f867" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" height="80" width="80" /></a>
-  <a href="https://www.credly.com/badges/86b4ebdd-557d-4bf6-aa17-4e19c349617c" target="blank"><img align="center" src="https://images.credly.com/size/340x340/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" alt="Professional Scrum Master 1" height="80" width="80" /></a>
-  <a href="https://cs50.harvard.edu/certificates/5da1a9c1-9cc5-4f4a-86a8-45fb9627bfd6" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/150px-Harvard_University_coat_of_arms.svg.png" alt="CS50x: Introduction to Computer Science" height="80" width="80" /></a>
+  <a href="https://www.credly.com/badges/54ae679f-4439-46ed-84ff-cb408c18f867" target="_blank"><img align="center" src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" height="80" width="80" /></a>
+  <a href="https://www.credly.com/badges/86b4ebdd-557d-4bf6-aa17-4e19c349617c" target="_blank"><img align="center" src="https://images.credly.com/size/340x340/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" alt="Professional Scrum Master 1" height="80" width="80" /></a>
+  <a href="https://cs50.harvard.edu/certificates/5da1a9c1-9cc5-4f4a-86a8-45fb9627bfd6" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Harvard_University_coat_of_arms.svg/150px-Harvard_University_coat_of_arms.svg.png" alt="CS50x: Introduction to Computer Science" height="80" width="80" /></a>
 </p>
